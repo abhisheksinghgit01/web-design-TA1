@@ -9,7 +9,6 @@ body {
     background-color: blueviolet;
     border: 2px solid darkblue;
 }
-.name {
-    background-color: red;
-    margin: 5px;
+h1 {
+    text-align: center;
 }
