@@ -12,3 +12,8 @@ body {
 h1 {
     text-align: center;
 }
+button{
+    margin-left: 340px;
+    padding: 0px;
+    border-radius: 10%;
+}
